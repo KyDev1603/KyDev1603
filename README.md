@@ -1,9 +1,6 @@
 <div align="center">
 
 # Hi, I'm **KyDev1603** 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+Building+digital+solutions+%26+scalable+web+apps;💻+Full-Stack+Web+Developer;⚡+React+%7C+Next.js+%7C+Tailwind+%7C+Laravel;🎮+Digital+Business+%26+Game+Services" />
-
 </div>
 
 ---
@@ -13,7 +10,7 @@
 ```javascript
 const developer = {
   name: "KyDev1603",
-  role: "Full-Stack Developer",
+  role: "Full-Stack Developer", 
   bio: "Building digital solutions & scalable web apps",
   location: "Indonesia 🇮🇩",
   
