@@ -1,108 +1,111 @@
 <div align="center">
 
-# 🌟 KyDev1603
+# Hi, I'm **KyDev1603** 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Digital+Solutions;⚡+Scalable+Web+Applications;🎯+Full-Stack+Developer" />
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+Building+digital+solutions+%26+scalable+web+apps;💻+Full-Stack+Web+Developer;⚡+React+%7C+Next.js+%7C+Tailwind+%7C+Laravel;🎮+Digital+Business+%26+Game+Services" />
 
 </div>
 
-## 🎯 **About Me**
+---
+
+## 🚀 **About Me**
 
 ```javascript
-const kydev = {
-  code: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
-  askMeAbout: ["web dev", "app dev", "digital business"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind", "Bootstrap"]
-    },
-    backEnd: {
-      js: ["Node.js"],
-      php: ["Laravel"]
-    },
-    databases: ["MySQL", "MongoDB"],
-    misc: ["Git", "Docker", "AWS"]
+const developer = {
+  name: "KyDev1603",
+  role: "Full-Stack Developer",
+  bio: "Building digital solutions & scalable web apps",
+  location: "Indonesia 🇮🇩",
+  
+  skills: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "JavaScript", "TypeScript"],
+    backend: ["Laravel", "PHP", "Node.js"],
+    tools: ["Git", "VS Code", "Figma"]
   },
-  currentFocus: "Building scalable web applications & digital business",
-  funFact: "I turn coffee into code ☕"
+  
+  currentlyWorking: ["Web Applications", "Digital Business", "Game Top-up Services"],
+  learning: ["Advanced React Patterns", "System Architecture"],
+  hobbies: ["Coding", "Gaming", "Digital Innovation"]
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+---
 
-## 🛠️ **Tech Arsenal**
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&fontSize=20&lineCount=2&theme=github_dark&bg=0D1117&badge=00F5FF&border=30363D&titleColor=00F5FF&line1=React%2CReact%2C61DAFB%3BNext.js%2CNext.js%2C000000%3BTailwind%2CTailwind%2C06B6D4%3B&line2=JavaScript%2CJavaScript%2CF7DF1E%3BTypeScript%2CTypeScript%2C3178C6%3BHTML5%2CHTML5%2CE34F26%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&fontSize=20&lineCount=2&theme=github_dark&bg=0D1117&badge=00F5FF&border=30363D&titleColor=00F5FF&line1=Laravel%2CLaravel%2CFF2D20%3BPHP%2CPHP%2C777BB4%3BNode.js%2CNode.js%2C339933%3B&line2=MySQL%2CMySQL%2C4479A1%3BMongoDB%2CMongoDB%2C47A248%3BGit%2CGit%2CF05032%3B" />
-</p>
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-## 📊 **GitHub Analytics**
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KyDev1603&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&ring_color=00F5FF" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KyDev1603&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyDev1603&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" />
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+---
 
-## 🚀 **Current Projects & Focus**
+## 📊 **GitHub Stats**
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Web Development
-- Building modern React/Next.js applications
-- Creating responsive UI with Tailwind CSS
-- Developing Laravel backend systems
-- Implementing scalable architectures
+<img src="https://github-readme-stats.vercel.app/api?username=KyDev1603&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
 
 </td>
 <td width="50%">
 
-### 💼 Digital Business
-- Premium app services
-- Game top-up platforms
-- Digital voucher systems
-- E-commerce solutions
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KyDev1603&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=C9D1D9" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyDev1603&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" />
 
 </td>
 </tr>
 </table>
+</div>
 
-## 🌐 **Connect With Me**
+---
+
+## 🎯 **What I'm Up To**
+
+- 🌱 **Learning:** Advanced React patterns & system architecture
+- 💼 **Working on:** Scalable web applications & digital business platforms
+- 🎮 **Building:** Game top-up services & premium app solutions
+- 🚀 **Exploring:** Modern web technologies & best practices
+
+---
+
+## 📫 **Let's Connect**
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/langnrxy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:rizkygalang729@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/KyDev1603)
+[![Instagram](https://img.shields.io/badge/-langnrxy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/langnrxy)
+[![Gmail](https://img.shields.io/badge/-rizkygalang729@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizkygalang729@gmail.com)
+[![GitHub](https://img.shields.io/badge/-KyDev1603-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KyDev1603)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=KyDev1603&style=for-the-badge&color=00D4FF&labelColor=000000" />
 
 </div>
 
-<div align="center">
-
-## 🎯 **Profile Stats**
-
-<img src="https://komarev.com/ghpvc/?username=KyDev1603&style=for-the-badge&color=00F5FF&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/KyDev1603?style=for-the-badge&color=00F5FF&labelColor=000000&logo=github" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+---
 
 <div align="center">
 
-### 💭 **"Code is poetry written for machines to understand"**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" />
+**💡 "Clean code always looks like it was written by someone who cares"**
 
 </div>
