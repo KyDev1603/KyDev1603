@@ -1,30 +1,19 @@
 <div align="center">
 
 # Hi, I'm **KyDev1603** 👋
+
 </div>
 
 ---
 
 ## 🚀 **About Me**
 
-```javascript
-const developer = {
-  name: "KyDev1603",
-  role: "Full-Stack Developer", 
-  bio: "Building digital solutions & scalable web apps",
-  location: "Indonesia 🇮🇩",
-  
-  skills: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "JavaScript", "TypeScript"],
-    backend: ["Laravel", "PHP", "Node.js"],
-    tools: ["Git", "VS Code", "Figma"]
-  },
-  
-  currentlyWorking: ["Web Applications", "Digital Business", "Game Top-up Services"],
-  learning: ["Advanced React Patterns", "System Architecture"],
-  hobbies: ["Coding", "Gaming", "Digital Innovation"]
-};
-```
+- 💻 Full-Stack Developer from **Indonesia 🇮🇩**
+- 🚀 Building **digital solutions & scalable web apps**
+- 🎮 Founder of **Digital Business** (Premium Apps, Game Top-up, Vouchers)
+- 🛠️ Skilled in **React, Next.js, Tailwind, PHP, Laravel**
+- 🌱 Currently learning **Advanced React Patterns & System Architecture**
+- 🎯 Hobbies: **Coding, Gaming, Digital Innovation**
 
 ---
 
@@ -73,15 +62,6 @@ const developer = {
 </tr>
 </table>
 </div>
-
----
-
-## 🎯 **What I'm Up To**
-
-- 🌱 **Learning:** Advanced React patterns & system architecture
-- 💼 **Working on:** Scalable web applications & digital business platforms
-- 🎮 **Building:** Game top-up services & premium app solutions
-- 🚀 **Exploring:** Modern web technologies & best practices
 
 ---
 
